@@ -1,0 +1,38 @@
+.container_inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+.payment_info {
+  text-align: center;
+}
+.input {
+  padding: 10px;
+  margin-bottom: 7px;
+}
+.label {
+  text-align: left;
+  font-weight: 700;
+  font-size: 14px;
+  padding-bottom: 7px;
+}
+.showQr {
+  margin: 10px auto;
+  text-align: center;
+  padding: 10px 20px;
+  font-weight: 600;
+  background: #0eac81;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  color: white;
+}
+.qr {
+  text-align: center;
+}
+
+.qr img {
+  width: 150px;
+}

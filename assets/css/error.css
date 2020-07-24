@@ -1,0 +1,13 @@
+.payment-message {
+  margin-top: 40px;
+  padding: 20px;
+  text-align: center;
+  color: #000000;
+}
+.payment-message .error-icon img {
+  width: 100px;
+}
+.payment-message h1 {
+  font-weight: bold;
+  font-size: 20px;
+}

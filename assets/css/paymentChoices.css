@@ -1,0 +1,14 @@
+.payment-more-option {
+  margin-top: 40px;
+  text-align: center;
+  cursor: pointer;
+}
+.payment-more-option h2 {
+  margin: 0;
+}
+.icon.arrow-bottom {
+  display: inline-block;
+  width: 24px;
+  height: 6px;
+  background: url("~assets/icons/arrow-bottom.svg") no-repeat;
+}

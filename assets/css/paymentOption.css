@@ -1,0 +1,19 @@
+.payment-option {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  color: #707275;
+  border: 1px solid #f1f0f6;
+}
+
+.payment-option .logo img {
+  margin: 0 auto;
+  width: 40px;
+}
+.payment-option .amount {
+  flex-grow: 2;
+  font-size: 14px;
+  font-weight: 600;
+  align-self: center;
+}
